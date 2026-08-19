@@ -1,0 +1,6 @@
+{
+  "name": "分账与记账管家",
+  "description": "专为多银行卡分账、18号工资梳理复盘、微信支付宝流水智能导入、预算超支追踪与转账规划量身定制的财务管家系统",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
